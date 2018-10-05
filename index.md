@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>
+<head>
 
-You can use the [editor on GitHub](https://github.com/skillarchiedavis/hhhh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<link rel="stylesheet" type="text/css" href="styles.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<title>SkillarchieDavis.com</title>
+<div class="mainlayout">
+<div class="header">
+ <center><h1>Skillarchie Davis  </h1> </center>
+ <center><h1>Web Developer / User Interface Designer </h1> </center>
+</div>
+</head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
+<div class="sidebar">
+<img src="images/pic.jpeg" width="100px" height="50dx" alt="my cat"/
+<strong><h2> Contact</h2></strong>
+<h2>telephone: (876)5056633</h2>
+<h2>Email Address: skillarchiedavis1@yahoo.com</h2>
+<h2> SkillarchieDavis.com</h2>
 
-```markdown
-Syntax highlighted code block
+<hr>
+<h2> Social Media</h2>
+</div>
+<br>
+<div class="maincontent">
+<h2>Biography</h2>
+<p>My name is skillarchie davis, i am a very determine and hardworking individual but what sets me apart from my peers is my faith in christ Jesus. 
+	My career goal is to become a Game programmer alongside a web developer.</p>
 
-# Header 1
-## Header 2
-### Header 3
+<hr>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<h2>Work Experience</h2>
+<p>2018 Hershey park</p>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<hr>
+<h2>Education</h2>
+<p> 2010 - 2017    calabar high</p>
+<p>2017 - present  university of west indies</p>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skillarchiedavis/hhhh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<hr>
+<h2> Skills / Expertise </h2>
+<ul>
+<li>Programming</li>
+<li>counsilling</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

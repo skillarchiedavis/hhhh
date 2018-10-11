@@ -12,19 +12,19 @@ body {
   background-color:blue;
   padding: 30px;
   text-align: center;
-  font-size: 35px;
-  border-style: solid
+  
 }
 
 #box{
-	border-style: solid
+	
 	border-radius:50%;
+	
 }
 
 .box{
+	border-style: solid;
 	
-	border-radius:50%;
-	
+
 }
 .sidebar{
 	background-color:gray;

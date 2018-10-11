@@ -13,16 +13,22 @@ body {
   padding: 30px;
   text-align: center;
   font-size: 35px;
- border-style: solid
+  border-style: solid
 }
 
 #box{
-	
+	border-style: solid
 	border-radius:50%;
 }
 
+.box{
+	
+	border-radius:50%;
+	
+}
 .sidebar{
 	background-color:gray;
+
 	
 	
 }
@@ -72,7 +78,19 @@ h2.maincontent{
 	
   }
 }
+p{
+	text-align:left;
+	
+}
 
+h3{
+	text-align:left;
+	
+}
+
+li{
+	text-align:left;
+}
 table
 {
     border: 1px dashed black;

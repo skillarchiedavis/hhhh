@@ -28,7 +28,7 @@ body {
 }
 
 .fa {
-	display: block;
+	text-align: left;
 }
 h2{
 	text-align: left;
@@ -53,7 +53,12 @@ h2.maincontent{
   
   font-size: 30px;
 }
-
+.box{
+	font-size: 30px;
+	text
+	
+	
+}
 .header { grid-area: header; }
 .maincontent { grid-area: menu; }
 .sidebar { grid-area: main; }
@@ -67,3 +72,18 @@ h2.maincontent{
 	
   }
 }
+
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+	#heading
+{
+    font-weight:bold;
+    }
